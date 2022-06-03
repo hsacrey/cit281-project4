@@ -4,6 +4,8 @@ Working with Postman, I created a REST API that works with a "data" source of qu
 
 I also created a Node.js REST API to handle the GET and POST verbs. 
 
+### Primary concepts: breaking a project into manageable components, Node.js JavaScript code using VSCode, code modules, modern JavaScript syntax, Node.js REST API server using VSCode, Fastify with the GET and POST verbs, routes, and route parameters, static data, testing code module without using a web server, using Postman to test web server routes, working with JSON, Deep cloning of data
+
 ![all students](AllStudents.png)
 ![one student](SingleStudent.png)
 ![student post](StudentPost.png)
